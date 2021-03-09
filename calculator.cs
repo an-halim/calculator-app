@@ -8,6 +8,11 @@ namespace Calculator
         {
              
         }
+
+        //Function
+        static int tambah (int a, int b){
+            return a+b;
+        }
         
     }
 }
